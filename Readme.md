@@ -23,7 +23,7 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 **Cevap:** Galiba *y = 18.75x + 0.25*
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:** Kuvvet sıfır olduğunda sonıç bulamayacağımız için?
+**Cevap:** Kuvvet sıfır olduğunda sonuç bulamayacağımız için?
 
 
 
