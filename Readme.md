@@ -20,10 +20,10 @@ a) Defterinizde çizdiğiniz grafiğin eğimini ne buldunuz? (Defterinizde nokta
 **Cevap:** Yaklaşık 2,136 gibi bir sonuç buldum.
 
 b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8Yvb5NjG3bL3VnrP7Rth6o/edit?usp=sharing) dosyasını inceleyin ve bilgisayar ile nasıl grafik çizildiğini anlayın. Bilgisayar kendi grafiğini çizerken ileri düzeyde matematik hesaplamalar yapıyor ve en iyi doğruyu çiziyor (Sizin bunu bilmenize gerek yok!)  Bilgisayarla eğim bulmak için [Google Sheet kullanarak eğim bulma] (https://tr.geekmarkt.com/how-find-slope-google-sheets) derslerini kullanabilirsiniz. Bilgisayarın hesapladığı eğim formülü *y = 21.7x + 0.25* ile veriliyor. Sizin elle çizdiğiniz grafiğin eğim formülü nedir? Aşağıya sizin bulduğunuz eğim formülünü yazın. 
-**Cevap:** 
+**Cevap:** Galiba *y = 18.75x + 0.25*
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:** 
+**Cevap:** Kuvvet sıfır olduğunda sonıç bulamayacağımız için?
 
 
 
